@@ -13,8 +13,8 @@
     </span>
     <p>
       <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/python.svg" height="100">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/django.svg" height="200">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/flask.svg" height="150">
+      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/django.svg" height="100">
+      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/flask.svg" height="100">
     </p>
   </div>
   
