@@ -34,12 +34,20 @@
   </details>
 
   <details>
-    <summary>GitHub Profile Stats 💻</summary>
+    <summary>Top Languages 💻</summary>
     <div align="center">
       <p>
         <a href="https://github.com/soheilmpa/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheilmpa&langs_count=6&theme=gruvbox&layout=compact&hide_border=true">
         </a>
+      </p>
+    </div>
+  </details>
+
+  <details>
+    <summary>GitHub Stats 📊</summary>
+    <div align="center">
+      <p>
         <a href="https://github.com/soheilmpa/github-readme-activity-graph">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=soheilmpa&theme=github-compact&hide_border=true">
         </a>
@@ -47,9 +55,22 @@
     </div>
   </details>
 
+  <details>
+    <summary>Hobbies 🧩</summary>
+    <div align="center">
+       <ul>
+        <li>Listening to music (mostly instrumental)</li>
+        <li>Reading psychological articles and books</li>
+        <li>Explore about cybersecurity</li>
+        <li>Strategic video games</li>
+        <li>Gardening</li>
+      </ul> 
+    </div>
+  </details>
+
   <div align="center">
     <span>
-      <h3>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h3>
+      <h4>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h4>
     </span>
   </div>
   
