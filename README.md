@@ -14,6 +14,18 @@
   </div>
   
   <hr>
+
+  <details>
+    <summary>Hobbies 🧩</summary>
+    <div align="center">
+      <p>Listening to music (mostly instrumental)</p>
+      <p>Reading psychological articles and books</p>
+      <p>Explore about cybersecurity</p>
+      <p>Playing strategy video games</p>
+      <p>Gardening</p>
+      <p>Cooking</p>
+    </div>
+  </details>
   
   <details>
     <summary>Contact Me ☎️</summary>
@@ -54,20 +66,9 @@
       </p>
     </div>
   </details>
-
-  <details>
-    <summary>Hobbies 🧩</summary>
-    <div align="center">
-       <ul>
-        <li>Listening to music (mostly instrumental)</li>
-        <li>Reading psychological articles and books</li>
-        <li>Explore about cybersecurity</li>
-        <li>Strategic video games</li>
-        <li>Gardening</li>
-      </ul> 
-    </div>
-  </details>
-
+  
+  <hr>
+  
   <div align="center">
     <span>
       <h4>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h4>
