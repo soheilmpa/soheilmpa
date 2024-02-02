@@ -12,9 +12,9 @@
       <h2>I'm a freelance back-end developer.</h2>
     </span>
     <p>
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/python.svg" height="0.5%">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/django.svg" height="1%">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/flask.svg" height="0.1%">
+      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/python.svg" height="10">
+      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/django.svg" height="20">
+      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/flask.svg" height="5">
     </p>
   </div>
   
