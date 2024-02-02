@@ -9,8 +9,7 @@
 <body>
   <div align="center">
     <span>
-      <h4><
-      <h4>I'm a freelance back-end developer. Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h4>
+      <h3>I'm a freelance back-end developer.</h3>
     </span>
   </div>
   
@@ -47,6 +46,12 @@
       </p>
     </div>
   </details>
+
+  <div align="center">
+    <span>
+      <h3>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h3>
+    </span>
+  </div>
   
 </body>
 
