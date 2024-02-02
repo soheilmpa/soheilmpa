@@ -9,7 +9,8 @@
 <body>
   <div align="center">
     <span>
-      <h4>I'm a freelance developer. Please take a look at my <a href="" target="_blank">resume</a> for more information.</h4>
+      <h4><
+      <h4>I'm a freelance back-end developer. Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h4>
     </span>
   </div>
   
