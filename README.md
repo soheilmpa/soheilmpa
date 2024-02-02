@@ -9,11 +9,23 @@
 <body>
   <div align="center">
     <span>
-      <h3>I'm a freelance back-end developer.</h3>
+      <h2>I'm a freelance back-end developer.</h2>
     </span>
   </div>
   
   <hr>
+
+  <details>
+    <summary>Other Languages and Tools</summary>
+    <div align="center">
+      <p>
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+      </p>
+    </div>
+  </details>
 
   <details>
     <summary>Hobbies 🧩</summary>
@@ -28,9 +40,8 @@
   </details>
   
   <details>
-    <summary>Contact Me ☎️</summary>
+    <summary>Contact ☎️</summary>
     <div align="center">
-      <h2>You can reach me by:</h2>
       <p>
         <a href="https://www.linkedin.com/in/soheil_mpa/" target="_blank">
           <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
@@ -71,6 +82,8 @@
   
   <div align="center">
     <span>
+      <p>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</p>
+      <h3>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h3>
       <h4>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h4>
     </span>
   </div>
