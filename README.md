@@ -20,13 +20,27 @@
     <div align="center">
       <p>
         <img src="/icons/python.svg" alt="python" title="Python" width="40" height="40" />
-        <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
-        <img src="./icons/flask.png" alt="flask" title="Flask" width="40" height="40" />
+        <img src="./icons/java.svg" alt="java" title="Java" width="40" height="40" />
+        <img src="./icons/c++.svg" alt="c++" title="C++" width="40" height="40" />
         <img src="./icons/html5.svg" alt="html" title="HTML" width="40" height="40" />
         <img src="./icons/css3.svg" alt="css" title="CSS" width="40" height="40" />
+      </p>
+      <p>
+        <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
+        <img src="./icons/laravel.svg" alt="laravel" title="Laravel" width="40" height="40" />
+        <img src="./icons/qt.svg" alt="qt" title="QT" width="40" height="40" />
+      </p>
+      <p>
         <img src="./icons/mongodb.svg" alt="mongodb" title="MongoDB" width="40" height="40" />
+        <img src="./icons/mysql.svg" alt="mysql" title="MySql" width="40" height="40" />
+      </p>
+      <p>
         <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
         <img src="./icons/postman.svg" alt="postman" title="Postman" width="40" height="40" />
+      </p>
+      <p>
+        <img src="./icons/ubuntu.svg" alt="ubuntu" title="Ubuntu" width="40" height="40" />
+        <img src="./icons/kali.svg" alt="kali" title="Kali" width="40" height="40" />
       </p>
     </div>
   </details>
@@ -47,14 +61,14 @@
     <summary>Contact me</summary>
     <div align="center">
       <p>
-        <a href="mailto:soheilmohammadpor13@gmail.com" target="blank">
-            <img src="./icons/gmail.svg" height="40" width="40"/>
+        <a href="mailto:soheilmohammadpor13@gmail.com" target="blank" style="text-decoration:none;">
+            <img src="./icons/gmailn.svg" height="40" width="40"/>
         </a>
-        <a href="https://www.linkedin.com/in/soheil_mpa/" target="blank">
+        <a href="https://www.linkedin.com/in/soheil_mpa/" target="blank" style="text-decoration:none;">
             <img src="./icons/linkedin.svg" height="40" width="40" />
         </a>
-        <a href="https://stackoverflow.com/users/13569971/afshar-sharifi" target="blank">
-            <img src="./icons/stack-overflow.svg" height="40" width="40" />
+        <a href="https://stackoverflow.com/users/17064466/soheil-mpa" target="blank">
+            <img src="./icons/stackoverflow.svg" height="40" width="40" />
         </a>
         <a href="https://t.me/soheil_mpa" target="blank">
             <img src="./icons/telegram.svg" height="40" width="40" />
