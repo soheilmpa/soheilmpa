@@ -9,15 +9,17 @@
 <body>
   <div align="center">
     <span>
-      <h2>I'm a freelance back-end developer.</h2>
+      <h3>I'm a freelance back-end developer.</h3>
     </span>
   </div>
+
+  <hr>
   
   <details>
     <summary>My skills</summary>
     <div align="center">
       <p>
-        <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
+        <img src="/icons/python.svg" alt="python" title="Python" width="40" height="40" />
         <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
         <img src="./icons/flask.png" alt="flask" title="Flask" width="40" height="40" />
         <img src="./icons/html5.svg" alt="html" title="HTML" width="40" height="40" />
