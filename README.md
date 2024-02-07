@@ -12,12 +12,12 @@
       <h2>I'm a freelance back-end developer.</h2>
     </span>
     <div style="display: flex; flex-wrap: wrap;">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/python.svg" style="width: 100%; max-width: 50px; margin: 5px;">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/django.svg" style="width: 100%; max-width: 50px; margin: 5px;">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/flask.svg" style="width: 100%; max-width: 50px; margin: 5px;">
+      <img src="./icons/python.svg" width="70" height="40">
+      <img src="./icons/django.svg" width="70" height="40">
+      <img src="./icons/flask.svg" width="70" height="40">
     </div>
   </div>
-  
+
   <hr>
 
   <details>
