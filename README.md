@@ -12,9 +12,7 @@
       <h2>I'm a freelance back-end developer.</h2>
     </span>
   </div>
-
-  <hr>
-
+  
   <details>
     <summary>My skills</summary>
     <div align="center">
