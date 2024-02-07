@@ -87,9 +87,7 @@
   
   <div align="center">
     <span>
-      <p>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</p>
-      <h3>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h3>
-      <h4>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank">resume</a> for more information.</h4>
+      <h4>Please take a look at my <a href="https://github.com/soheilmpa/soheilmpa/blob/main/resume.pdf" target="_blank" download="Soheil_mpa.pdf">resume</a> for more information.</h4>
     </span>
   </div>
   
