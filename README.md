@@ -11,11 +11,11 @@
     <span>
       <h2>I'm a freelance back-end developer.</h2>
     </span>
-    <p>
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/python.svg" height="100">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/django.svg" height="100">
-      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/flask.svg" height="100">
-    </p>
+    <div style="display: flex; flex-wrap: wrap;">
+      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/python.svg" style="width: 100%; max-width: 200px; margin: 5px;">
+      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/django.svg" style="width: 100%; max-width: 200px; margin: 5px;">
+      <img src="https://github.com/soheilmpa/soheilmpa/blob/main/icons/flask.svg" style="width: 100%; max-width: 200px; margin: 5px;">
+    </div>
   </div>
   
   <hr>
