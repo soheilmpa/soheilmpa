@@ -61,16 +61,16 @@
     <summary>Contact me</summary>
     <div align="center">
       <p>
-        <a href="mailto:soheilmohammadpor13@gmail.com" target="blank" style="text-decoration:none;">
+        <a href="mailto:soheilmohammadpor13@gmail.com" target="_blank" style="text-decoration:none;">
             <img src="./icons/gmailn.svg" height="40" width="40"/>
         </a>
-        <a href="https://www.linkedin.com/in/soheil_mpa/" target="blank" style="text-decoration:none;">
+        <a href="http://www.linkedin.com/in/soheil%D9%80mpa" target="_blank" style="text-decoration:none;">
             <img src="./icons/linkedin.svg" height="40" width="40" />
         </a>
-        <a href="https://stackoverflow.com/users/17064466/soheil-mpa" target="blank">
+        <a href="https://stackoverflow.com/users/17064466/soheil-mpa" target="_blank">
             <img src="./icons/stackoverflow.svg" height="40" width="40" />
         </a>
-        <a href="https://t.me/soheil_mpa" target="blank">
+        <a href="https://t.me/soheil_mpa" target="_blank">
             <img src="./icons/telegram.svg" height="40" width="40" />
         </a>
       </p>
